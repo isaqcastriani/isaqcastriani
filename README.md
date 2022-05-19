@@ -1,9 +1,7 @@
 ## Oii! Eu sou o Isaque Castriani
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando python
-- 😄 Pronouns: ele/dele
+Welcome to my github! Here i put my projects so that anyone can look, study, improve and etc.
 
 <div align="center">
   <a href="https://github.com/isaquecastriani">
