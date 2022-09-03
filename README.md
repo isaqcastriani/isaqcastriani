@@ -5,7 +5,7 @@
 Welcome to my github! Here i put my projects so that anyone can look, study, improve and etc.
 
 <div align="center">
-  <a href="https://github.com/isaquecastriani">
+  <a href="https://github.com/isaqcastriani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaqcastriani&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqcastriani&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
