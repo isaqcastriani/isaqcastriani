@@ -2,7 +2,7 @@
 
 
 
-Welcome to my github! Here i put my projects so that anyone can look, study, improve and etc.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=45C38F&width=435&lines=Welcome+to+my+github!+Here+i+put+my+projects+so+that+anyone+can+look%2C+study%2C+improve+and+etc.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/isaqcastriani">
